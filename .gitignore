@@ -74,3 +74,5 @@ agent.log
 .cursor/
 .vscode/
 .DS_Store
+
+*.tsbuildinfo
